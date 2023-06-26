@@ -1,0 +1,1 @@
+Study the variables and build a model that can make a binomial prediction, yes or no, about whether the client has subscribed to a term deposit or not.
